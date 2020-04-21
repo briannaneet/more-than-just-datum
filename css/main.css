@@ -1,0 +1,15 @@
+html {
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+header {
+  background-color: #ddd;
+}
+
+.nearby {
+  background-color: #efefef;
+}
+
+.card {
+  background-color: #fff;
+}

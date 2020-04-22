@@ -13,3 +13,7 @@ header {
 .card {
   background-color: #fff;
 }
+
+.table-wrapper {
+  overflow: visible;
+}

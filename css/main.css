@@ -1,5 +1,5 @@
 html {
-  font-family: 'IBM Plex Sans', sans-serif;
+  font-family: "IBM Plex Sans", sans-serif;
 }
 
 header {
@@ -10,7 +10,7 @@ header {
   background-color: #efefef;
 }
 
-.card {
+li {
   background-color: #fff;
 }
 
